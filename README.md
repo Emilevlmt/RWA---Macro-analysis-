@@ -6,7 +6,7 @@ This strategic analysis explores the state of the Real-World Asset (RWA) market 
 This repository contains a strategic analysis of the **Real-World Asset (RWA)** market as of February 2026. The report details the structural migration of financial collateral toward programmable settlement infrastructure, moving beyond "crypto-native" speculation into institutional-grade financial systems.
 
 ## File Included
-* `Final_Paper_1.pdf`: Full strategic report including market share charts and value chain mapping.
+* `[RWA_Market_Analysis.pdf](https://github.com/user-attachments/files/25582152/RWA_Market_Analysis.pdf)`: Full strategic report including market share charts and value chain mapping.
 
 ---
 Data sourced from RWA.xyz and institutional market reports as of February 2026.
